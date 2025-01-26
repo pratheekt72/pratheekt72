@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Pratheek Thummalapalli - Currently a sophompore at Virginia Tech, majoring in Computer Science
+- 👀 I’m interested in Java, Python, AWS - but a lot more to go as I start getting deeper in CS 
+- 🌱 I’m currently learning Cloud (AWS), AI/ML and general software development  
+- 💞️ I’m looking for summer intern opportunities- 2025
+- 📫 I can be reached at pratheekt@vt.edu
+- 😄 Pronouns: Him/Her
