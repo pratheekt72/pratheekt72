@@ -4,3 +4,4 @@
 - 💞️ I’m looking for summer intern opportunities- 2025
 - 📫 I can be reached at pratheekt@vt.edu
 - 😄 Pronouns: Him/Her
+-  My current CV is at : ([link](https://github.com/pratheekt72/resume/blob/main/PratheekResume.pdf/))
